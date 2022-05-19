@@ -49,6 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@najeeb-anwari](https://www.frontendmentor.io/profile/najeeb-anwari)
+- Github - [@najeeb-anwari](https://github.com/najeeb-anwari)
+- Linkedin - [@nabdul-najeeb-anwari](https://www.linkedin.com/in/abdul-najeeb-anwari/)
+
