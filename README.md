@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,8 +11,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+- [Validation checks](#validation-checks)
 - [Author](#author)
-
 
 ## Overview
 
@@ -22,6 +22,7 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
+- See visible keyboard focus styles for interactive elements
 
 ### Screenshot
 
@@ -42,14 +43,20 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### Useful resources
 
 - [Wesbos CSS Grid Course](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) - This is a nice course to learn about CSS Grid.
+
+## Validation checks
+
+Run the lightweight content and security check:
+
+```bash
+python3 tests/check_page.py
+```
 
 ## Author
 
 - Frontend Mentor - [@najeeb-anwari](https://www.frontendmentor.io/profile/najeeb-anwari)
 - Github - [@najeeb-anwari](https://github.com/najeeb-anwari)
 - Linkedin - [@nabdul-najeeb-anwari](https://www.linkedin.com/in/abdul-najeeb-anwari/)
-
